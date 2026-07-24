@@ -1,0 +1,13 @@
+# OS junk
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Altium generated
+Project Outputs*/
+History/
+__Previews/
+*.PrjPcbStructure
+
+# Arduino build
+build/
